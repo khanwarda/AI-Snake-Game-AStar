@@ -1,5 +1,3 @@
-<img width="1075" height="690" alt="Screenshot 2026-04-14 214653" src="https://github.com/user-attachments/assets/e921f649-a3d8-45df-a69f-34e3c2373d44" /><img width="1075" height="690" alt="Screenshot 2026-04-14 214653" src="https://github.com/user-attachments/assets/8bcafa5f-75f2-4935-ba20-3912cd6e00bc" /># 🤖 AI Auto-Pilot Snake Game (A* Pathfinding Algorithm)
-
 An advanced, production-grade implementation of the classic Snake Game in Python. Instead of just manual controls, this project features an **Autonomous AI Agent** powered by the **A* (A-Star) Pathfinding Algorithm**.
 
 This project demonstrates the practical application of Artificial Intelligence and pathfinding algorithms in real-time environments.
